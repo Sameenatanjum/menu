@@ -19,5 +19,7 @@ main()
 		break;
 		case 5:printf("5.French fries \nrs.99 ");
 		break;
+		default:printf("sorry invalid choice\n please enter from(1-5)");
+		break;
 	}
 }
